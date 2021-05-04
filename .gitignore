@@ -1,4 +1,5 @@
 # Ignore the dataset directory
-dataset/
+dataset/amazon-fire-food-review/
+dataset/final.sqlite
 .ipynb_checkpoints/
 
